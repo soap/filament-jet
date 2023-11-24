@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Soap\FilamentJet\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentJetCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-jet';
 
     public $description = 'My command';
 
