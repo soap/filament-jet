@@ -2,9 +2,9 @@
 
 namespace Soap\FilamentJet;
 
+use Soap\FilamentJet\Commands\FilamentJetCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Soap\FilamentJet\Commands\FilamentJetCommand;
 
 class FilamentJetServiceProvider extends PackageServiceProvider
 {
